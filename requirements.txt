@@ -1,0 +1,8 @@
+# AI Playground Requirements
+# This project uses only Python standard library - no external dependencies needed!
+# Requires Python 3.6 or higher
+
+# If you want to extend this project, consider these optional packages:
+# colorama>=0.4.6  # For colored terminal output
+# rich>=13.0.0     # For beautiful terminal formatting
+# inquirer>=3.1.0  # For better interactive prompts
